@@ -1,0 +1,2 @@
+-w /etc/passwd -p wa -k identity_files
+-w /etc/shadow -p wa -k identity_files
